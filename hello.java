@@ -5,4 +5,5 @@ class hello     #from dev1
 		system.out.print in("hello.java")
 	}
 }
-
+hi
+hello
